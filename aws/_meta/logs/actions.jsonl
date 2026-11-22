@@ -1,0 +1,17 @@
+{"timestamp":"2026-11-22T11:26:54Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\services\\logstash\\
+security_group.tf"}
+{"timestamp":"2026-11-22T11:27:09Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\services\\postgres\\
+main.tf"}
+{"timestamp":"2026-11-22T11:27:22Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\services\\postgres\\
+vars.tf"}
+{"timestamp":"2026-11-22T11:27:36Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\services\\ec2-win\\
+ec2.tf"}
+{"timestamp":"2026-11-22T11:27:51Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\cosdev\\us-east-1\\region.hcl"}
+{"timestamp":"2026-11-22T11:28:05Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\cosdev\\environment.hcl"}
+{"timestamp":"2026-11-22T11:28:19Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\crb-dbstaging\\environment.hcl"}
+{"timestamp":"2026-11-22T11:28:36Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\crb-dbstaging\\us-east-1\\sqldbstg02\\ec2-win\\terragrunt.hcl"}
+{"timestamp":"2026-11-22T11:29:08Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\crb-dbstaging\\us-east-1\\sqldbstg03\\ec2-win\\terragrunt.hcl"}
+{"timestamp":"2026-11-22T11:29:22Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\crb-dbstaging\\us-east-1\\sqldbstg03\\ec2-win\\terragrunt.hcl"}
+{"timestamp":"2026-11-22T11:29:38Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\crb-dbstaging\\us-east-1\\sqldbstg04\\ec2-win\\terragrunt.hcl"}
+{"timestamp":"2026-11-22T11:29:54Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\crb-dbstaging\\us-east-1\\sqldbstg04\\ec2-win\\terragrunt.hcl"}
+{"timestamp":"2026-11-22T11:30:31Z","tool":"Edit","file":"C:\\claude-aviad\\infra\\DBA_IAC\\terraform\\aws\\environments\\crb-dbstaging\\us-east-1\\sqldbstg05\\ec2-win\\terragrunt.hcl"}
